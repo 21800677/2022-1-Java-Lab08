@@ -8,7 +8,7 @@ import edu.handong.csee.java.hw2.math.MathCalculator;
 public class MathDriver {
     /**
      * Main Method
-     * @param args : get commandline
+     * @param args : get commandline 
      */
     public static void main(String[] args){
         MathDriver myDriver = new MathDriver();
